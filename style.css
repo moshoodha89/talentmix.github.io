@@ -1,0 +1,20 @@
+
+.container	{
+	background-color: red;
+	border: solid 2px blue;
+}
+
+.col {
+	border: solid 2px gray;
+}
+
+.badge	{
+	background-color: red;
+}
+
+.dropdown	{
+	
+	justify-content: center;
+	display: flex;
+
+}
